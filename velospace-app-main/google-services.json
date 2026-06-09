@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367357050076",
+    "project_id": "velospace-f94bd",
+    "storage_bucket": "velospace-f94bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367357050076:android:2b03920f5f193e4aefc819",
+        "android_client_info": {
+          "package_name": "com.matheusfreitas_fiap.velospaceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACzEoqy8dro-OafigzJvlt8sv7TvOq6q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
